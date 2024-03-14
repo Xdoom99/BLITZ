@@ -1,3 +1,6 @@
+
+PS THIS SHIT IS STILL VERY NEW AND DOESNT WELL 
+
 The code starts with a banner describing a fictional tool named "BLITZ-Binary Logic Intrusion Termination Zone." This name is purely fictional and doesn't represent any real security product.
 The disclaimer claims it's for research only, but in reality, using such a tool for DoS attacks is illegal.
 BLITZ / Edited Version Info:
